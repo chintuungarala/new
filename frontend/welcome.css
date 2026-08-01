@@ -1,0 +1,14 @@
+/* *{
+        color: red;
+        background-color: black;
+
+    }
+  #jersey{
+    color:white;
+  } */
+   p,h1,h2,h3{
+    color:red;
+   }
+   *{
+    background-color: brown;
+   }
