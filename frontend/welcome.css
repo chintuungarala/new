@@ -6,9 +6,67 @@
   #jersey{
     color:white;
   } */
-   p,h1,h2,h3{
-    color:red;
+   /* *{ 
+    background-image: url("https://static.10tv.in/wp-content/uploads/2025/09/OG-Movie-Stills-3.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: contain;
+    background-attachment: fixed;
+ } */
+   /*h1{
+    color:rgba(0, 255, 4, 0.403);
+   }
+   h2{
+    color:blue;
+   }
+   h3{
+    color:#111
+   }
+   .none{
+    border-style: none;
+   }
+   .hidden{
+    border-style: hidden;
+   }
+   .dotted{
+    border-style:dotted;
+   }
+   .dashed{
+    border-style: dashed;
+    border-color: yellow;
+   }
+   .solid{
+    border-style: solid;
+    border-color: lawngreen;
+   }
+   .double{
+    border-style: double;
+    border-color: pink;
+   }*/
+   .button{
+    border-radius: 25px;
+    border-style: solid;
+    border-color: blue;
+    padding: 10px;
+    /* margin-bottom: 10px; */
+    border-width: 5px;
+    background-color: pink;
+   }
+   .button1{
+    border-radius: 50px;
+    border-style: double;
+    border-color: pink;
+    padding: 10px;
+    border-width: 100px;
+   }
+   .button2{
+    border-radius: 100px;
+    border-style: dotted;
+    border-color: red;
+    padding: 10x;
+    border-width: 100px;
    }
    *{
-    background-color: brown;
+    margin: 10px;
+    margin-bottom: 10px;
    }
